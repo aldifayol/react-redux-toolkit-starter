@@ -14,18 +14,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@biomejs/biome@npm:^1.8.3":
-  version: 1.9.2
-  resolution: "@biomejs/biome@npm:1.9.2"
+"@biomejs/biome@npm:1.8.3":
+  version: 1.8.3
+  resolution: "@biomejs/biome@npm:1.8.3"
   dependencies:
-    "@biomejs/cli-darwin-arm64": "npm:1.9.2"
-    "@biomejs/cli-darwin-x64": "npm:1.9.2"
-    "@biomejs/cli-linux-arm64": "npm:1.9.2"
-    "@biomejs/cli-linux-arm64-musl": "npm:1.9.2"
-    "@biomejs/cli-linux-x64": "npm:1.9.2"
-    "@biomejs/cli-linux-x64-musl": "npm:1.9.2"
-    "@biomejs/cli-win32-arm64": "npm:1.9.2"
-    "@biomejs/cli-win32-x64": "npm:1.9.2"
+    "@biomejs/cli-darwin-arm64": "npm:1.8.3"
+    "@biomejs/cli-darwin-x64": "npm:1.8.3"
+    "@biomejs/cli-linux-arm64": "npm:1.8.3"
+    "@biomejs/cli-linux-arm64-musl": "npm:1.8.3"
+    "@biomejs/cli-linux-x64": "npm:1.8.3"
+    "@biomejs/cli-linux-x64-musl": "npm:1.8.3"
+    "@biomejs/cli-win32-arm64": "npm:1.8.3"
+    "@biomejs/cli-win32-x64": "npm:1.8.3"
   dependenciesMeta:
     "@biomejs/cli-darwin-arm64":
       optional: true
@@ -45,62 +45,62 @@ __metadata:
       optional: true
   bin:
     biome: bin/biome
-  checksum: 10c0/0addf6a387112ba950693ae0b782db93f307300de111a46902c745c25baab5aaf1a3558be830f373e4f034d45eaa011b6bccfdc1e18d26f733136c32dffd83f9
+  checksum: 10c0/95fe99ce82cd8242f1be51cbf3ac26043b253f5a369d3dc24df09bdb32ec04dba679b1d4fa8b9d602b1bf2c30ecd80af14aa8f5c92d6e0cd6214a99a1099a65b
   languageName: node
   linkType: hard
 
-"@biomejs/cli-darwin-arm64@npm:1.9.2":
-  version: 1.9.2
-  resolution: "@biomejs/cli-darwin-arm64@npm:1.9.2"
+"@biomejs/cli-darwin-arm64@npm:1.8.3":
+  version: 1.8.3
+  resolution: "@biomejs/cli-darwin-arm64@npm:1.8.3"
   conditions: os=darwin & cpu=arm64
   languageName: node
   linkType: hard
 
-"@biomejs/cli-darwin-x64@npm:1.9.2":
-  version: 1.9.2
-  resolution: "@biomejs/cli-darwin-x64@npm:1.9.2"
+"@biomejs/cli-darwin-x64@npm:1.8.3":
+  version: 1.8.3
+  resolution: "@biomejs/cli-darwin-x64@npm:1.8.3"
   conditions: os=darwin & cpu=x64
   languageName: node
   linkType: hard
 
-"@biomejs/cli-linux-arm64-musl@npm:1.9.2":
-  version: 1.9.2
-  resolution: "@biomejs/cli-linux-arm64-musl@npm:1.9.2"
+"@biomejs/cli-linux-arm64-musl@npm:1.8.3":
+  version: 1.8.3
+  resolution: "@biomejs/cli-linux-arm64-musl@npm:1.8.3"
   conditions: os=linux & cpu=arm64 & libc=musl
   languageName: node
   linkType: hard
 
-"@biomejs/cli-linux-arm64@npm:1.9.2":
-  version: 1.9.2
-  resolution: "@biomejs/cli-linux-arm64@npm:1.9.2"
+"@biomejs/cli-linux-arm64@npm:1.8.3":
+  version: 1.8.3
+  resolution: "@biomejs/cli-linux-arm64@npm:1.8.3"
   conditions: os=linux & cpu=arm64 & libc=glibc
   languageName: node
   linkType: hard
 
-"@biomejs/cli-linux-x64-musl@npm:1.9.2":
-  version: 1.9.2
-  resolution: "@biomejs/cli-linux-x64-musl@npm:1.9.2"
+"@biomejs/cli-linux-x64-musl@npm:1.8.3":
+  version: 1.8.3
+  resolution: "@biomejs/cli-linux-x64-musl@npm:1.8.3"
   conditions: os=linux & cpu=x64 & libc=musl
   languageName: node
   linkType: hard
 
-"@biomejs/cli-linux-x64@npm:1.9.2":
-  version: 1.9.2
-  resolution: "@biomejs/cli-linux-x64@npm:1.9.2"
+"@biomejs/cli-linux-x64@npm:1.8.3":
+  version: 1.8.3
+  resolution: "@biomejs/cli-linux-x64@npm:1.8.3"
   conditions: os=linux & cpu=x64 & libc=glibc
   languageName: node
   linkType: hard
 
-"@biomejs/cli-win32-arm64@npm:1.9.2":
-  version: 1.9.2
-  resolution: "@biomejs/cli-win32-arm64@npm:1.9.2"
+"@biomejs/cli-win32-arm64@npm:1.8.3":
+  version: 1.8.3
+  resolution: "@biomejs/cli-win32-arm64@npm:1.8.3"
   conditions: os=win32 & cpu=arm64
   languageName: node
   linkType: hard
 
-"@biomejs/cli-win32-x64@npm:1.9.2":
-  version: 1.9.2
-  resolution: "@biomejs/cli-win32-x64@npm:1.9.2"
+"@biomejs/cli-win32-x64@npm:1.8.3":
+  version: 1.8.3
+  resolution: "@biomejs/cli-win32-x64@npm:1.8.3"
   conditions: os=win32 & cpu=x64
   languageName: node
   linkType: hard
@@ -597,7 +597,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-dom@npm:^18.3.0":
+"@types/react-dom@npm:18.3.0":
   version: 18.3.0
   resolution: "@types/react-dom@npm:18.3.0"
   dependencies:
@@ -606,15 +606,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-redux@npm:7.1.34":
-  version: 7.1.34
-  resolution: "@types/react-redux@npm:7.1.34"
+"@types/react-redux@npm:7.1.33":
+  version: 7.1.33
+  resolution: "@types/react-redux@npm:7.1.33"
   dependencies:
     "@types/hoist-non-react-statics": "npm:^3.3.0"
     "@types/react": "npm:*"
     hoist-non-react-statics: "npm:^3.3.0"
     redux: "npm:^4.0.0"
-  checksum: 10c0/6750964ec656eb6973b0e4fda787549aee5dbc266a0f0e78fc9efb417b4965c0b060d10b99a7b7fa0c8812b8a0a07d97a1ef46d094bf64fee07144e8bbad781a
+  checksum: 10c0/e17a2fea00c6ab5f22868e927b4da7b7cf8dc7c85102638fa0f87e12ae0ec13335d9b3bf75098b3316dd8d2a18c99fe08bed22daa989a13f3710c4530f7b979e
   languageName: node
   linkType: hard
 
@@ -635,7 +635,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vitejs/plugin-react-swc@npm:^3.7.0":
+"@vitejs/plugin-react-swc@npm:3.7.0":
   version: 3.7.0
   resolution: "@vitejs/plugin-react-swc@npm:3.7.0"
   dependencies:
@@ -652,6 +652,24 @@ __metadata:
   checksum: 10c0/f742a5a107473946f426c691c08daba61a1d15942616f300b5d32fd735be88fef5cba24201757b6c407fd564555fb48c751cfa33519b2605c8a7aadd22baf372
   languageName: node
   linkType: hard
+
+"advanced-state-management-with-redux-toolkit-template@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "advanced-state-management-with-redux-toolkit-template@workspace:."
+  dependencies:
+    "@biomejs/biome": "npm:1.8.3"
+    "@reduxjs/toolkit": "npm:2.2.7"
+    "@types/react": "npm:18.3.5"
+    "@types/react-dom": "npm:18.3.0"
+    "@types/react-redux": "npm:7.1.33"
+    "@vitejs/plugin-react-swc": "npm:3.7.0"
+    react: "npm:18.3.1"
+    react-dom: "npm:18.3.1"
+    react-redux: "npm:9.1.2"
+    typescript: "npm:5.5.4"
+    vite: "npm:^5.4.3"
+  languageName: unknown
+  linkType: soft
 
 "agent-base@npm:^7.0.2, agent-base@npm:^7.1.0, agent-base@npm:^7.1.1":
   version: 7.1.1
@@ -1410,24 +1428,6 @@ __metadata:
   checksum: 10c0/33977da7a5f1a287936a0c85639fec6ca74f4f15ef1e59a6bc20338fc73dc69555381e211f7a3529b8150a1f71e4225525b41b60b52965bda53ce7d47377ada1
   languageName: node
   linkType: hard
-
-"react-redux-toolkit-starter@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "react-redux-toolkit-starter@workspace:."
-  dependencies:
-    "@biomejs/biome": "npm:^1.8.3"
-    "@reduxjs/toolkit": "npm:2.2.7"
-    "@types/react": "npm:18.3.5"
-    "@types/react-dom": "npm:^18.3.0"
-    "@types/react-redux": "npm:7.1.34"
-    "@vitejs/plugin-react-swc": "npm:^3.7.0"
-    react: "npm:18.3.1"
-    react-dom: "npm:18.3.1"
-    react-redux: "npm:9.1.2"
-    typescript: "npm:5.5.4"
-    vite: "npm:^5.4.3"
-  languageName: unknown
-  linkType: soft
 
 "react-redux@npm:9.1.2":
   version: 9.1.2

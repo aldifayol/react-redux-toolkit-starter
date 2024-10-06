@@ -1,1 +1,1 @@
-# advanced-state-management-with-redux-toolkit-template
+# advanced-react-redux-rtk-service
